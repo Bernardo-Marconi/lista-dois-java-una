@@ -1,5 +1,5 @@
 # lista-dois-java-una
-lista de exercicios um em java.
+lista de exercicios dois em java.
 
 Meu LinkedIn: https://www.linkedin.com/in/bernardo-marconi-1b2aaa218
 
